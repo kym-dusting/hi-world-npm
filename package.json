@@ -1,0 +1,30 @@
+{
+  "name": "hi-world-npm",
+  "version": "1.0.0",
+  "description": "An example package for a tutorial.",
+  "keywords": [
+    "example",
+    "package",
+    "tutorial"
+  ],
+  "homepage": "https://github.com/kym-dusting/hi-world-npm",
+  "bugs": {
+    "url": "https://github.com/kym-dusting/hi-world-npm/issues",
+    "email": "emailme@kymdusting.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kym-dusting/hi-world-npm.git"
+  },
+  "author": "kym dusting",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">= 9"
+  },
+  "engineStrict": true
+}
